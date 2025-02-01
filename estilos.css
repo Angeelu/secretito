@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: cadetblue;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-position: top;
+    background-image: url(https://i.pinimg.com/236x/c1/aa/0e/c1aa0e9dad2e3702c6f54595b72267ff.jpg);
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
